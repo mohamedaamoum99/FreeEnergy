@@ -1,5 +1,5 @@
 # FreeEnergy
 
-This is Matlab code for predict pyrolysis products 
-SQP can't reach the global minimun,
-For good results use the Rand algorithm of Aspen Plus software .
+This is Matlab code for predict pyrolysis products <br />
+SQP can't reach the global minimun, <br />
+For good results use the Rand algorithm of Aspen Plus software . 
